@@ -1,0 +1,8 @@
+set_io D1 J11
+set_io D2 K11
+set_io D3 G12
+set_io D4 H12
+set_io D5 K14
+set_io D6 J12
+set_io D7 L14
+set_io D8 K12

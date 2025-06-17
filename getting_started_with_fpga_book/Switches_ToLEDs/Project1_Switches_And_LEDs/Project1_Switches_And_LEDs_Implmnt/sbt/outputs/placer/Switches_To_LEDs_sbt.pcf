@@ -1,0 +1,8 @@
+set_location i_Switch_1_ibuf_RNIFTM7 26 3 0 # SB_LUT4 (LogicCell: i_Switch_1_ibuf_RNIFTM7_LC_0)
+set_location GND -1 -1 -1 # GND
+set_io i_Switch_1_ibuf 17 0 0 # ICE_IO
+set_io i_Switch_2_ibuf 25 33 0 # ICE_IO
+set_io o_LED_1_obuf 33 6 0 # ICE_IO
+set_io o_LED_2_obuf 33 4 1 # ICE_IO
+set_io o_LED_3_obuf 33 11 0 # ICE_IO
+set_io o_LED_4_obuf 33 6 1 # ICE_IO

@@ -1,0 +1,14 @@
+#LEDs
+set_io led[0] K12
+set_io led[1] L14
+set_io led[2] J12
+set_io led[3] K14
+
+#Switch
+
+#set_io  -pullup yes rst_btn H3
+set_io -pullup yes switch[0] H3
+set_io -pullup yes switch[1] G3
+
+#Clock
+set_io clk P7

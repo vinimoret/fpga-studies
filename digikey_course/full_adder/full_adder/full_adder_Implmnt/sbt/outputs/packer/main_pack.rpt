@@ -1,0 +1,77 @@
+* ******************************************************************************
+
+* iCEcube Report
+
+* Version:            2020.12.27943
+
+* Build Date:         Dec  9 2020 17:31:51
+
+* File Generated:     Jun 10 2025 23:34:35
+
+* Purpose:            General info of design implementation
+
+* Copyright (C) 2006-2010 by Lattice Semiconductor Corp. All rights reserved.
+
+* ******************************************************************************
+
+Synthesis/Placement Summary:
+----------------------------
+    Status:  Successful
+    Runtime: 0 seconds
+
+Device Info:
+------------
+    Device Family: iCE40
+    Device:        iCE40HX8K
+    Package:       CB132
+
+Design statistics:
+------------------
+    FFs:                  0
+    LUTs:                 2
+    RAMs:                 0
+    IOBs:                 5
+    GBs:                  0
+    PLLs:                 0
+    Warm Boots:           0
+
+Logic Resource Utilization:
+---------------------------
+    Total Logic Cells: 2/7680
+        Combinational Logic Cells: 2        out of   7680      0.0260417%
+        Sequential Logic Cells:    0        out of   7680      0%
+        Logic Tiles:               1        out of   960       0.104167%
+    Registers: 
+        Logic Registers:           0        out of   7680      0%
+        IO Registers:              0        out of   1280      0
+    Block RAMs:                    0        out of   32        0%
+    Warm Boots:                    0        out of   1         0%
+    Pins:
+        Input Pins:                3        out of   95        3.15789%
+        Output Pins:               2        out of   95        2.10526%
+        InOut Pins:                0        out of   95        0%
+    Global Buffers:                0        out of   8         0%
+    PLLs:                          0        out of   2         0%
+
+IO Bank Utilization:
+--------------------
+    Bank 3: 3        out of   24        12.5%
+    Bank 1: 2        out of   25        8%
+    Bank 0: 0        out of   24        0%
+    Bank 2: 0        out of   22        0%
+
+Detailed I/O Info:
+------------------
+    Input Pins: 
+    Pin Number  Direction  IO Standard  Pull Up  IO Bank  IO Function    Signal Name
+    ----------  ---------  -----------  -------  -------  -----------    -----------
+    K4          Input      SB_LVCMOS    No       3        Simple Input   switch[0]  
+    M1          Input      SB_LVCMOS    No       3        Simple Input   switch[1]  
+    P1          Input      SB_LVCMOS    No       3        Simple Input   switch[2]  
+
+    Output Pins: 
+    Pin Number  Direction  IO Standard  Pull Up  IO Bank  IO Function    Signal Name
+    ----------  ---------  -----------  -------  -------  -----------    -----------
+    J11         Output     SB_LVCMOS    No       1        Simple Output  led[0]     
+    K11         Output     SB_LVCMOS    No       1        Simple Output  led[1]     
+

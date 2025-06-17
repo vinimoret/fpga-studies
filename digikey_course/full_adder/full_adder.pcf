@@ -1,0 +1,9 @@
+#LEDs
+set_io  led[0]   J11
+set_io  led[1]   K11
+
+
+#PMOD I/0
+set_io -pullup yes switch[0] F4
+set_io -pullup yes switch[1] H3
+set_io -pullup yes switch[2] G3

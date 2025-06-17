@@ -1,0 +1,8 @@
+set_location led_obuf_RNO[2] 17 7 0 # SB_LUT4 (LogicCell: led_obuf_RNO[2]_LC_0)
+set_location pmod_ibuf_RNIT2F8[0] 17 7 1 # SB_LUT4 (LogicCell: pmod_ibuf_RNIT2F8[0]_LC_1)
+set_location GND -1 -1 -1 # GND
+set_io led_obuf[0] 33 6 0 # ICE_IO
+set_io led_obuf[1] 33 4 1 # ICE_IO
+set_io led_obuf[2] 33 11 0 # ICE_IO
+set_io pmod_ibuf[0] 0 11 0 # ICE_IO
+set_io pmod_ibuf[1] 0 4 0 # ICE_IO

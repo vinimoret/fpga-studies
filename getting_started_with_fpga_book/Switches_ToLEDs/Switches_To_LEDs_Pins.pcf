@@ -1,0 +1,11 @@
+# LED pins:
+set_io o_LED_1 J11
+set_io o_LED_2 K11
+set_io o_LED_3 G12
+set_io o_LED_4 H12
+
+# Push-button switches:
+set_io i_Switch_1 P8
+set_io i_Switch_2 A10                         
+#set_io i_Switch_3 P8
+#set_io i_Switch_4 P8

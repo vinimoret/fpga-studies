@@ -1,0 +1,78 @@
+Running in Lattice mode
+
+
+Starting:    C:\lscc\iCEcube2.2020.12\synpbase\bin64\mbin\synbatch.exe
+Install:     C:\lscc\iCEcube2.2020.12\synpbase
+Hostname:    VINI-WIN-LAPTOP
+Date:        Mon Jun 09 23:30:57 2025
+Version:     L-2016.09L+ice40
+
+Arguments:   -product synplify_pro -batch and_gate_syn.prj
+ProductType: synplify_pro
+
+
+
+
+
+log file: "C:\Users\vinic\Desktop\apio\and_gate\and_gate\and_gate_Implmnt\and_gate.srr"
+Running: and_gate_Implmnt in foreground
+
+Running and_gate_syn|and_gate_Implmnt
+
+Running: compile (Compile) on and_gate_syn|and_gate_Implmnt
+# Mon Jun 09 23:30:57 2025
+
+Running: compile_flow (Compile Process) on and_gate_syn|and_gate_Implmnt
+# Mon Jun 09 23:30:57 2025
+
+Running: compiler (Compile Input) on and_gate_syn|and_gate_Implmnt
+# Mon Jun 09 23:30:57 2025
+Copied C:\Users\vinic\Desktop\apio\and_gate\and_gate\and_gate_Implmnt\synwork\and_gate_comp.srs to C:\Users\vinic\Desktop\apio\and_gate\and_gate\and_gate_Implmnt\and_gate.srs
+
+compiler completed
+# Mon Jun 09 23:30:58 2025
+
+Return Code: 0
+Run Time:00h:00m:01s
+
+Running: multi_srs_gen (Multi-srs Generator) on and_gate_syn|and_gate_Implmnt
+# Mon Jun 09 23:30:58 2025
+
+multi_srs_gen completed
+# Mon Jun 09 23:30:59 2025
+
+Return Code: 0
+Run Time:00h:00m:01s
+Copied C:\Users\vinic\Desktop\apio\and_gate\and_gate\and_gate_Implmnt\synwork\and_gate_mult.srs to C:\Users\vinic\Desktop\apio\and_gate\and_gate\and_gate_Implmnt\and_gate.srs
+Complete: Compile Process on and_gate_syn|and_gate_Implmnt
+
+Running: premap (Pre-mapping) on and_gate_syn|and_gate_Implmnt
+# Mon Jun 09 23:30:59 2025
+
+premap completed
+# Mon Jun 09 23:30:59 2025
+
+Return Code: 0
+Run Time:00h:00m:00s
+Complete: Compile on and_gate_syn|and_gate_Implmnt
+
+Running: map (Map) on and_gate_syn|and_gate_Implmnt
+# Mon Jun 09 23:30:59 2025
+License granted for 4 parallel jobs
+
+Running: fpga_mapper (Map & Optimize) on and_gate_syn|and_gate_Implmnt
+# Mon Jun 09 23:30:59 2025
+Copied C:\Users\vinic\Desktop\apio\and_gate\and_gate\and_gate_Implmnt\synwork\and_gate_m.srm to C:\Users\vinic\Desktop\apio\and_gate\and_gate\and_gate_Implmnt\and_gate.srm
+
+fpga_mapper completed
+# Mon Jun 09 23:31:01 2025
+
+Return Code: 0
+Run Time:00h:00m:02s
+Complete: Map on and_gate_syn|and_gate_Implmnt
+Complete: Logic Synthesis on and_gate_syn|and_gate_Implmnt
+
+exit status=0
+
+exit status=0
+

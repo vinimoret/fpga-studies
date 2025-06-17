@@ -1,0 +1,9 @@
+ble_pack i_Switch_1_ibuf_RNIFTM7_LC_26_3_0 { i_Switch_1_ibuf_RNIFTM7 }
+clb_pack LT_26_3 { i_Switch_1_ibuf_RNIFTM7_LC_26_3_0 }
+set_location LT_26_3 26 3
+set_io o_LED_3 G12
+set_io o_LED_1 J11
+set_io i_Switch_2 A10
+set_io o_LED_4 H12
+set_io o_LED_2 K11
+set_io i_Switch_1 P8
