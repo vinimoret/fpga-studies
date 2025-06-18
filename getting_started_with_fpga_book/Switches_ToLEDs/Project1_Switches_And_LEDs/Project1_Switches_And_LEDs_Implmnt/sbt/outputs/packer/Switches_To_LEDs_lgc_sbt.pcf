@@ -1,8 +1,0 @@
-set_location GND -1 -1 -1 #GND
-set_location i_Switch_1_ibuf_RNIFTM7 26 3 0 #SB_LUT4
-set_io o_LED_3 G12
-set_io o_LED_1 J11
-set_io i_Switch_2 A10
-set_io o_LED_4 H12
-set_io o_LED_2 K11
-set_io i_Switch_1 P8

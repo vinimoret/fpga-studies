@@ -1,2 +1,0 @@
-@W: FX1039 :"c:\users\vinic\desktop\fpga\ch02\led_toggle\led_toggle.v":10:0:10:5|User-specified initial value defined for instance r_LED_1 is being ignored. 
-@W: FX1039 :"c:\users\vinic\desktop\fpga\ch02\led_toggle\led_toggle.v":10:0:10:5|User-specified initial value defined for instance r_Switch_1 is being ignored. 

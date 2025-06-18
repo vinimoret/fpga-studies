@@ -1,2 +1,0 @@
-@E: CG243 :"C:\Users\vinic\Desktop\fpga\ch02\Switches_To_Leds.v":4:2:4:7|Expecting ) or comma delimiter
-

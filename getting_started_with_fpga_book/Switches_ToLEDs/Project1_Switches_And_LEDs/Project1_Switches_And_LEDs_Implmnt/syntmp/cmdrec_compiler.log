@@ -1,8 +1,0 @@
-C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  C:\Users\vinic\Desktop\fpga\ch02\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synwork\Project1_Switches_And_LEDs_comp.srs  -hdllog  C:\Users\vinic\Desktop\fpga\ch02\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synlog\Project1_Switches_And_LEDs_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -verilog  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver   -I C:\Users\vinic\Desktop\fpga\ch02\Project1_Switches_And_LEDs\  -I C:\lscc\iCEcube2.2020.12\synpbase\lib   -v2001  -devicelib  C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v  -encrypt  -pro  -dmgen  C:\Users\vinic\Desktop\fpga\ch02\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\dm  -ui -fid2 -ram -sharing on -ll 2000 -autosm  -lib work C:\Users\vinic\Desktop\fpga\ch02\Switches_To_Leds.v 
-rc:0 success:1 runtime:1
-file:C:\Users\vinic\Desktop\fpga\ch02\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synwork\Project1_Switches_And_LEDs_comp.srs|io:o|time:1749349151|size:1591|exec:0
-file:C:\Users\vinic\Desktop\fpga\ch02\Project1_Switches_And_LEDs\Project1_Switches_And_LEDs_Implmnt\synlog\Project1_Switches_And_LEDs_compiler.srr|io:o|time:1749349151|size:3082|exec:0
-file:C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v|io:i|time:1746057626|size:224837|exec:0
-file:C:\Users\vinic\Desktop\fpga\ch02\Switches_To_Leds.v|io:i|time:1749346794|size:290|exec:0
-file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1746057621|size:1338368|exec:1
-file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1746057623|size:1754112|exec:1

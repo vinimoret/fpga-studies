@@ -1,6 +1,0 @@
-OUTPUT o_LED_3 	 location (33, 11, 0) 	 G12 	 
-OUTPUT o_LED_1 	 location (33, 6, 0) 	 J11 	 
-INPUT  i_Switch_2 	 location (25, 33, 0) 	 A10 	 
-OUTPUT o_LED_4 	 location (33, 6, 1) 	 H12 	 
-OUTPUT o_LED_2 	 location (33, 4, 1) 	 K11 	 
-INPUT  i_Switch_1 	 location (17, 0, 0) 	 P8 	 

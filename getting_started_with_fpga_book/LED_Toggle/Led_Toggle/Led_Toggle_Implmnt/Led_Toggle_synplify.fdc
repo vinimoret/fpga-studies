@@ -1,5 +1,0 @@
-
-#1001 : create_clock -period 10.00 -name i_Clk [get_ports i_Clk]
-# line 1 in c:/users/vinic/desktop/fpga/ch02/led_toggle/led_toggle.sdc
-
-create_clock -period {10.000} -name {i_Clk} [get_ports {i_Clk}]
