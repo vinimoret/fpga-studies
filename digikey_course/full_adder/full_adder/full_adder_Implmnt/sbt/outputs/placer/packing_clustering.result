@@ -1,3 +1,0 @@
-ble_pack led_0_1.CO0_LC_0 {led_0_1.CO0}
-ble_pack led_0_1.N_15_i_LC_1 {led_0_1.N_15_i}
-clb_pack PLB_0 {led_0_1.CO0_LC_0, led_0_1.N_15_i_LC_1}

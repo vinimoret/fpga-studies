@@ -1,9 +1,0 @@
-ble_pack led_obuf_RNO_2_LC_17_7_0 { led_obuf_RNO[2] }
-ble_pack pmod_ibuf_RNIT2F8_0_LC_17_7_1 { pmod_ibuf_RNIT2F8[0] }
-clb_pack LT_17_7 { led_obuf_RNO_2_LC_17_7_0, pmod_ibuf_RNIT2F8_0_LC_17_7_1 }
-set_location LT_17_7 17 7
-set_io pmod[0] K4
-set_io led[2] G12
-set_io led[0] J11
-set_io pmod[1] P1
-set_io led[1] K11

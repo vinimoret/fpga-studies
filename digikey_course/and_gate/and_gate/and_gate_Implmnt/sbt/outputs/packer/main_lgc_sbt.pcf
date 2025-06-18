@@ -1,8 +1,0 @@
-set_location GND -1 -1 -1 #GND
-set_location pmod_ibuf_RNIT2F8[0] 17 7 1 #SB_LUT4
-set_location led_obuf_RNO[2] 17 7 0 #SB_LUT4
-set_io pmod[0] K4
-set_io led[2] G12
-set_io led[0] J11
-set_io pmod[1] P1
-set_io led[1] K11

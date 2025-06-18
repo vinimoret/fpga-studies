@@ -1,8 +1,0 @@
-set_location GND -1 -1 -1 #GND
-set_location led_0_1.N_15_i 1 6 1 #SB_LUT4
-set_location led_0_1.CO0 1 6 0 #SB_LUT4
-set_io switch[2] P1
-set_io switch[0] K4
-set_io led[0] J11
-set_io switch[1] M1
-set_io led[1] K11

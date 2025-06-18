@@ -1,4 +1,0 @@
-Selecting top level module main
-@N: CG364 :"C:\Users\vinic\Desktop\apio\full_adder\full_adder.v":1:7:1:10|Synthesizing module main in library work.
-
-@W: CG360 :"C:\Users\vinic\Desktop\apio\full_adder\full_adder.v":6:9:6:13|Removing wire xor_1, as there is no assignment to it.

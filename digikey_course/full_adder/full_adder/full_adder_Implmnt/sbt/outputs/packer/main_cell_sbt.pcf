@@ -1,9 +1,0 @@
-ble_pack led_0_1_CO0_LC_1_6_0 { led_0_1.CO0 }
-ble_pack led_0_1_N_15_i_LC_1_6_1 { led_0_1.N_15_i }
-clb_pack LT_1_6 { led_0_1_CO0_LC_1_6_0, led_0_1_N_15_i_LC_1_6_1 }
-set_location LT_1_6 1 6
-set_io switch[2] P1
-set_io switch[0] K4
-set_io led[0] J11
-set_io switch[1] M1
-set_io led[1] K11
